@@ -1,3 +1,6 @@
+这个不是我的，这是别人的。
+我把它搬到了自己的仓库，方便我个人编辑。
+原作者的地址:https://github.com/dirk1983/chatgpt
 # chatgpt
 ------
 **PHP版调用OpenAI的API接口进行问答的Demo，代码已更新为调用最新的gpt-3.5-turbo模型。
