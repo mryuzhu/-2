@@ -4,7 +4,7 @@ header("Content-Type: text/event-stream");
 session_start();
 $postData = $_SESSION['data'];
 $ch = curl_init();
-$OPENAI_API_KEY = "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";
+$OPENAI_API_KEY = "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";
 if ((isset($_SESSION['key'])) && (!empty($_POST['key']))) {
     $OPENAI_API_KEY = $_SESSION['key'];
 }
